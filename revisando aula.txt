@@ -1,0 +1,8 @@
+14/03/2023
+Conteúdo:
+- Estudando exercicios de java if/else
+Para criar um programa em java pelo vs code,devemos seguir alguns passos..
+1- Abrir um arquivo
+2- Criar uma pasta com o final .java
+3- criar uma pasta com o final escrito .app
+- Revisando e pesquisando sobre terminal (cmd), aula de hoje com o Gabriel
